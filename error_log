@@ -1,0 +1,33 @@
+[03-Nov-2016 10:29:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[03-Nov-2016 10:29:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[03-Nov-2016 10:29:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[03-Nov-2016 10:29:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[09-Nov-2016 20:18:12 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/ajahaadmin/public_html/hms/application/views/app/patient/addPatient.php on line 238
+[09-Nov-2016 13:14:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/ajahaadmin/public_html/hms/application/controllers/app/patient.php on line 163
+[09-Nov-2016 21:23:40 Asia/Manila] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/ajahaadmin/public_html/hms/application/views/app/appointment/addNewAppointment.php on line 249
+[09-Nov-2016 21:23:43 Asia/Manila] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/ajahaadmin/public_html/hms/application/views/app/appointment/addNewAppointment.php on line 249
+[09-Nov-2016 21:23:55 Asia/Manila] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132644864 bytes) in /home/ajahaadmin/public_html/hms/application/views/app/appointment/addNewAppointment.php on line 249
+[10-Nov-2016 09:34:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[10-Nov-2016 09:34:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 236
+[10-Nov-2016 15:55:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function open() in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 666
+[10-Nov-2016 10:59:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 218
+[10-Nov-2016 10:59:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 218
+[10-Nov-2016 10:59:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 218
+[11-Nov-2016 07:53:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 251
+[11-Nov-2016 07:53:33 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ajahaadmin/public_html/hms/application/controllers/app/opd.php on line 251
+[11-Nov-2016 17:11:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 17:11:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 17:11:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 17:11:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 17:11:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 17:11:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 67
+[11-Nov-2016 18:02:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 70
+[11-Nov-2016 18:02:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR.php on line 70
+[12-Nov-2016 11:20:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$ipdInfo' (T_VARIABLE) in /home/ajahaadmin/public_html/hms/application/views/app/opd/printOR2.php on line 58
+[13-Nov-2016 13:36:27 Asia/Kolkata] PHP Fatal error:  Call to a member function detailsInv2() on a non-object in /home/ajahaadmin/public_html/hms/application/controllers/app/reports.php on line 26
+[13-Nov-2016 13:36:37 Asia/Kolkata] PHP Fatal error:  Call to a member function detailsInv2() on a non-object in /home/ajahaadmin/public_html/hms/application/controllers/app/reports.php on line 26
+[13-Nov-2016 13:36:40 Asia/Kolkata] PHP Fatal error:  Call to a member function detailsInv2() on a non-object in /home/ajahaadmin/public_html/hms/application/controllers/app/reports.php on line 26
+[13-Nov-2016 15:40:06 Asia/Kolkata] PHP Fatal error:  Call to a member function getPatientInfo() on a non-object in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 229
+[13-Nov-2016 15:40:21 Asia/Kolkata] PHP Fatal error:  Call to a member function getPatientInfo() on a non-object in /home/ajahaadmin/public_html/hms/application/controllers/app/appointment.php on line 229
+[22-Nov-2016 11:11:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ajahaadmin/public_html/hms/application/views/app/patient/addPatient.php on line 388
+[22-Nov-2016 11:11:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ajahaadmin/public_html/hms/application/views/app/patient/addPatient.php on line 388
